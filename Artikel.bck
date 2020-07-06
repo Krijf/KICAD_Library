@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD_0603
+D CG0603MLC-05E
+F https://www.mouser.de/datasheet/2/54/cg0603mlc-05e_cg0603mlc-12e-1313440.pdf
+$ENDCMP
+#
+#End Doc Library

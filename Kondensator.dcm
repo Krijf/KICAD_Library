@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100n_0603
+D 100nF 0603 X7R 25V
+F https://api.kemet.com/component-edge/download/specsheet/C0603C104K3RACTU.pdf
+$ENDCMP
+#
+$CMP 1u_0603
+D 1uF 0603 X7R 25V
+F https://api.kemet.com/component-edge/download/specsheet/C0603C105K3RACTU.pdf
+$ENDCMP
+#
+$CMP 22p_0603
+D 22pF 0603 X7R 50V
+F https://api.kemet.com/component-edge/download/specsheet/C0603C220K5RACTU.pdf
+$ENDCMP
+#
+$CMP 22u_1210
+D 22uF 1210 X7R 25V
+F https://api.kemet.com/component-edge/download/specsheet/C1210C226K3RACTU.pdf
+$ENDCMP
+#
+#End Doc Library
