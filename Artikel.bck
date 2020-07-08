@@ -5,4 +5,14 @@ D CG0603MLC-05E
 F https://www.mouser.de/datasheet/2/54/cg0603mlc-05e_cg0603mlc-12e-1313440.pdf
 $ENDCMP
 #
+$CMP PCB_Switch_Winkel_THT
+D RND 210-00255
+F https://cdn-reichelt.de/documents/datenblatt/C200/RND_210-00255_DB_EN.pdf
+$ENDCMP
+#
+$CMP Rotary_stehend_THT
+D STEC11B13
+F https://cdn-reichelt.de/documents/datenblatt/A300/401756STEC11B13.PDF
+$ENDCMP
+#
 #End Doc Library

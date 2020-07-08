@@ -10,4 +10,9 @@ D RND 210-00255
 F https://cdn-reichelt.de/documents/datenblatt/C200/RND_210-00255_DB_EN.pdf
 $ENDCMP
 #
+$CMP Rotary_stehend_THT
+D STEC11B13
+F https://cdn-reichelt.de/documents/datenblatt/A300/401756STEC11B13.PDF
+$ENDCMP
+#
 #End Doc Library
