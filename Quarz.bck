@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 16MHz_KX_7
+F https://www.distrelec.de/Web/Downloads/86/02/KX-7-12-88602.pdf?pid=${product.code}
+$ENDCMP
+#
 #End Doc Library

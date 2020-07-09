@@ -4,4 +4,8 @@ $CMP 2x3_254
 F https://cdn-reichelt.de/documents/datenblatt/C140/RND_205-00634_DB_EN.pdf
 $ENDCMP
 #
+$CMP USB_B_Buchse
+F https://cdn-reichelt.de/documents/datenblatt/C120/USBBW.pdf
+$ENDCMP
+#
 #End Doc Library
