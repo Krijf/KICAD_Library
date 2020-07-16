@@ -8,4 +8,8 @@ $CMP USB_B_Buchse
 F https://cdn-reichelt.de/documents/datenblatt/C120/USBBW.pdf
 $ENDCMP
 #
+$CMP USB_C_Buchse_SMD
+F https://cdn-reichelt.de/documents/datenblatt/C100/A80211-1921.pdf
+$ENDCMP
+#
 #End Doc Library
