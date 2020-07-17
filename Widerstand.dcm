@@ -10,6 +10,11 @@ D 10kOhm 0603
 F http://www.vishay.com/docs/20035/dcrcwe3.pdf
 $ENDCMP
 #
+$CMP 1K5_0603
+D 1k5Ohm 0603
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
 $CMP 22R_0603
 D 22Ohm 0603
 F http://www.vishay.com/docs/20035/dcrcwe3.pdf

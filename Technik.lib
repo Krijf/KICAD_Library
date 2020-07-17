@@ -1,6 +1,18 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# BOH_3MM2
+#
+DEF BOH_3MM2 BOH 0 40 Y Y 1 F N
+F0 "BOH" 0 0 50 H I C CNN
+F1 "BOH_3MM2" 300 0 50 H V C CNN
+F2 "Technik:BOH_3MM2" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 71 0 1 0 N
+ENDDRAW
+ENDDEF
+#
 # TP_100
 #
 DEF TP_100 TP 0 0 N N 1 F N

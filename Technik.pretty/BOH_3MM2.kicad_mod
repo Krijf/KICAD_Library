@@ -1,0 +1,12 @@
+(module BOH_3MM2 (layer F.Cu) (tedit 5F11B682)
+  (attr virtual)
+  (fp_text reference REF** (at 0 0.4) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value BOH_3MM2 (at 0 -0.4) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 0 0) (end 5 0) (layer F.CrtYd) (width 0.1))
+  (fp_circle (center 0 0) (end 5 0) (layer B.CrtYd) (width 0.1))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
+)

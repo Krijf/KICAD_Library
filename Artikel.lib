@@ -4,10 +4,15 @@ EESchema-LIBRARY Version 2.4
 # ESD_0603
 #
 DEF ESD_0603 Z 0 40 Y Y 1 F N
-F0 "Z" 150 100 50 H V C CNN
-F1 "ESD_0603" 350 -50 50 H I C CNN
-F2 "Artikel:ESD_0603" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
+F0 "Z" 100 100 50 H V L CNN
+F1 "ESD_0603" 350 -50 50 H I L CNN
+F2 "Artikel:ESD_0603" 0 0 50 H I L CNN
+F3 "" 0 0 50 H I L CNN
+F4 "?NB?" 100 0 50 H V L CNN "NB"
+F5 "Bourns" 0 0 50 H I L CNN "Hersteller"
+F6 "CG0603MLC-05E" 0 0 50 H I L CNN "Herstellernummer"
+F7 "Mouser" 0 0 50 H I L CNN "Distributor"
+F8 "652-CG0603MLC-05E " 0 0 50 H I L CNN "Bestellnummer"
 DRAW
 P 2 0 1 10 -50 0 -100 50 N
 P 2 0 1 10 -50 0 50 0 N
@@ -22,10 +27,15 @@ ENDDEF
 # NEOPIXEL
 #
 DEF NEOPIXEL D 0 40 Y Y 1 F N
-F0 "D" -250 300 50 H V C CNN
-F1 "NEOPIXEL" -100 -250 50 H I C CNN
-F2 "Artikel:Neopixel" -50 0 50 H I C CNN
-F3 "" -50 0 50 H I C CNN
+F0 "D" -300 300 50 H V L CNN
+F1 "NEOPIXEL" -100 -250 50 H I L CNN
+F2 "Artikel:Neopixel" -50 0 50 H I L CNN
+F3 "" -50 0 50 H I L CNN
+F4 "?NB?" -300 -250 50 H V L CNN "NB"
+F5 "Adafruit" 0 0 50 H I L CNN "Hersteller"
+F6 "SK6812RGBW" 0 0 50 H I L CNN "Herstellernummer"
+F7 "Adafruit" 0 0 50 H I L CNN "Distributor"
+F8 "SK6812RGBW" 0 0 50 H I L CNN "Bestellnummer"
 DRAW
 S -300 250 300 -200 0 1 0 N
 P 2 0 1 0 -100 0 0 0 N
@@ -44,10 +54,14 @@ ENDDEF
 # PCB_Switch_Winkel_THT
 #
 DEF PCB_Switch_Winkel_THT SW 0 40 Y Y 1 F N
-F0 "SW" -100 300 50 H V C CNN
-F1 "PCB_Switch_Winkel_THT" 0 -250 50 H I C CNN
-F2 "Artikel:PCB_Switch_Winkel_THT" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
+F0 "SW" -150 300 50 H V L CNN
+F1 "PCB_Switch_Winkel_THT" 0 -250 50 H I L CNN
+F2 "Artikel:PCB_Switch_Winkel_THT" 0 0 50 H I L CNN
+F3 "" 0 0 50 H I L CNN
+F4 "?NB?" -150 -250 50 H V L CNN "NB"
+F5 "RND" 0 0 50 H I L CNN "Hersteller"
+F6 "210-00255" 0 0 50 H I L CNN "Herstellernummer"
+F7 "Reichelt" 0 0 50 H I L CNN "Distributor"
 DRAW
 C -100 0 0 0 1 20 N
 C 100 0 0 0 1 20 N
@@ -69,10 +83,15 @@ ENDDEF
 # Rotary_stehend_THT
 #
 DEF Rotary_stehend_THT SW 0 40 Y Y 1 F N
-F0 "SW" -150 300 50 H V C CNN
-F1 "Rotary_stehend_THT" 850 -350 50 H I C CNN
-F2 "Artikel:Rotary_stehend_THT" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
+F0 "SW" -200 300 50 H V L CNN
+F1 "Rotary_stehend_THT" 850 -350 50 H I L CNN
+F2 "Artikel:Rotary_stehend_THT" 0 0 50 H I L CNN
+F3 "" 0 0 50 H I L CNN
+F4 "?NB?" 250 -300 50 H V L CNN "NB"
+F5 "ALPS" 0 0 50 H I L CNN "Hersteller"
+F6 "STEC11B13" 0 0 50 H I L CNN "Herstellernummer"
+F7 "Reichelt" 0 0 50 H I L CNN "Distributor"
+F8 "STEC11B13" 0 0 50 H I L CNN "Bestellnummer"
 DRAW
 C 0 0 180 0 1 0 N
 S -200 250 200 -350 0 1 0 N
