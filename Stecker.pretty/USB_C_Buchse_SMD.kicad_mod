@@ -1,4 +1,4 @@
-(module USB_C_Buchse_SMD (layer F.Cu) (tedit 5FA29C2A)
+(module USB_C_Buchse_SMD (layer F.Cu) (tedit 5FA2A3EB)
   (solder_mask_margin 0.05)
   (fp_text reference REF** (at 3.7016 3.9624) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -53,7 +53,7 @@
   (pad M2 thru_hole oval (at -0.89 5.64) (size 1 2.1) (drill oval 0.5 1.1) (layers *.Cu *.Mask))
   (pad M4 thru_hole oval (at 8.09 5.64) (size 1 2.1) (drill oval 0.5 1.1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/USB_C_Buchse_SMD.stp
-    (offset (xyz 0 -2.3 -0.1))
+    (offset (xyz 3.6 -2.3 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

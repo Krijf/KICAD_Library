@@ -4,6 +4,10 @@ $CMP 2x3_254
 F https://cdn-reichelt.de/documents/datenblatt/C140/RND_205-00634_DB_EN.pdf
 $ENDCMP
 #
+$CMP TC2030_IDC
+F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf
+$ENDCMP
+#
 $CMP USB_A_2X_Buchse
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1903815%7FB%7Fpdf%7FEnglish%7FENG_CD_1903815_B.pdf%7F1903815-1
 $ENDCMP
