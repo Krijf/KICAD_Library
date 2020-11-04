@@ -24,6 +24,26 @@ X ~ 2 0 -300 200 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Fuse_500mA_FF
+#
+DEF Fuse_500mA_FF F 0 40 Y Y 1 F N
+F0 "F" -150 100 50 H V L CNN
+F1 "Fuse_500mA_FF" -150 -100 50 H V L CNN
+F2 "Artikel:Fuse_0603" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "?NB?" -150 -200 50 H V L CNN "NB"
+F5 "Littlefuse" 0 0 50 H I C CNN "Hersteller"
+F6 "0438.500WR" 0 0 50 H I C CNN "Herstellernummer"
+F7 "LCSC" 0 0 50 H I C CNN "Distributor"
+F8 " C151114" 0 0 50 H I C CNN "Bestellnummer"
+DRAW
+S -150 50 150 -50 1 1 0 N
+P 2 0 1 0 -150 0 150 0 N
+X ~ 1 -350 0 200 R 50 50 1 1 P
+X ~ 2 350 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # NEOPIXEL
 #
 DEF NEOPIXEL D 0 40 Y Y 1 F N
