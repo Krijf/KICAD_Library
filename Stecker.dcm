@@ -4,6 +4,10 @@ $CMP 2x3_254
 F https://cdn-reichelt.de/documents/datenblatt/C140/RND_205-00634_DB_EN.pdf
 $ENDCMP
 #
+$CMP AUX_TRRS
+F https://datasheet.lcsc.com/szlcsc/1810121720_Korean-Hroparts-Elec-PJ-3930-8A_C145811.pdf
+$ENDCMP
+#
 $CMP TC2030_IDC_Atmel
 F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf
 $ENDCMP
