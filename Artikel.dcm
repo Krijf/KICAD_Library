@@ -9,6 +9,11 @@ $CMP Fuse_500mA_FF
 F https://datasheet.lcsc.com/szlcsc/1806150422_Littelfuse-0438-500WR_C151114.pdf
 $ENDCMP
 #
+$CMP G6K-2F-Y-TR_DC5
+D Relais_Omron_G6K-2F-Y-TR_DC5
+F https://datasheet.lcsc.com/szlcsc/1811101510_Omron-Electronics-G6K-2F-Y-TR-DC5_C47190.pdf
+$ENDCMP
+#
 $CMP NEOPIXEL
 D SK6812RGBW
 F https://cdn-shop.adafruit.com/product-files/2757/p2757_SK6812RGBW_REV01.pdf
