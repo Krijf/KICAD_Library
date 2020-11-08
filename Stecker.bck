@@ -17,7 +17,7 @@ F https://cdn-reichelt.de/documents/datenblatt/C120/USBBW.pdf
 $ENDCMP
 #
 $CMP USB_C_Buchse_SMD
-F https://cdn-reichelt.de/documents/datenblatt/C100/A80211-1921.pdf
+F https://datasheet.lcsc.com/szlcsc/2007141817_Jing-Extension-of-the-Electronic-Co-C168698_C168698.pdf
 $ENDCMP
 #
 #End Doc Library
