@@ -40,6 +40,7 @@ F https://datasheet.lcsc.com/szlcsc/1810100411_Texas-Instruments-TS3USB30EDGSR_C
 $ENDCMP
 #
 $CMP TS5A22364
+D Audio Switch 2to1
 F https://datasheet.lcsc.com/szlcsc/1805290350_Texas-Instruments-TS5A22364DGSR_C105181.pdf
 $ENDCMP
 #
