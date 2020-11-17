@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP D_MMBD1204
+F https://datasheet.lcsc.com/szlcsc/1912111437_ON-Semiconductor-MMBD1204_C274681.pdf
+$ENDCMP
+#
 $CMP ESD_0603
 D CG0603MLC-05E
 F https://www.mouser.de/datasheet/2/54/cg0603mlc-05e_cg0603mlc-12e-1313440.pdf
@@ -27,6 +31,16 @@ $ENDCMP
 $CMP Rotary_stehend_THT
 D STEC11B13
 F https://cdn-reichelt.de/documents/datenblatt/A300/401756STEC11B13.PDF
+$ENDCMP
+#
+$CMP TS3USB30E
+D USB Switch 2to1
+K USB
+F https://datasheet.lcsc.com/szlcsc/1810100411_Texas-Instruments-TS3USB30EDGSR_C131998.pdf
+$ENDCMP
+#
+$CMP TS5A22364
+F https://datasheet.lcsc.com/szlcsc/1805290350_Texas-Instruments-TS5A22364DGSR_C105181.pdf
 $ENDCMP
 #
 #End Doc Library

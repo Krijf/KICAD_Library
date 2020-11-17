@@ -10,6 +10,9 @@ F2 "Widerstand:RESC1608" -600 200 50 H I L CNN
 F3 "" -600 200 50 H I L CNN
 F4 "0R" -50 0 50 H V L CNN "Wert"
 F5 "?NB?" -150 -100 50 H V L CNN "NB"
+F6 "R" -150 100 50 H V L BNN "Spice_Primitive"
+F7 "0" -150 100 50 H V L BNN "Spice_Model"
+F8 "Y" -150 100 50 H V L BNN "Spice_Netlist_Enabled"
 DRAW
 S -150 50 150 -50 0 1 0 N
 X ~ 2 350 0 200 L 50 50 0 1 P
