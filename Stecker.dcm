@@ -4,8 +4,12 @@ $CMP 2x3_254
 F https://cdn-reichelt.de/documents/datenblatt/C140/RND_205-00634_DB_EN.pdf
 $ENDCMP
 #
-$CMP AUX_TRRS
+$CMP AUX_TRRS_THT
 F https://datasheet.lcsc.com/szlcsc/1810121720_Korean-Hroparts-Elec-PJ-3930-8A_C145811.pdf
+$ENDCMP
+#
+$CMP AUX_TRS_SMD
+F https://datasheet.lcsc.com/szlcsc/2002271838_XKB-Connectivity-PJ-327U-SMT_C397453.pdf
 $ENDCMP
 #
 $CMP TC2030_IDC_Atmel
