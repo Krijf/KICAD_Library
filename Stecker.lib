@@ -1,6 +1,38 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 1,27P_SMD_10POS_2REIH_Female
+#
+DEF 1,27P_SMD_10POS_2REIH_Female J 0 40 Y Y 1 F N
+F0 "J" 0 0 50 H V C CNN
+F1 "1,27P_SMD_10POS_2REIH_Female" 0 0 50 H V C CNN
+F2 "Stecker:1,27P_SMD_10POS_2REIH" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "?NB?" 0 0 50 H V C CNN "NB"
+F5 "Ckmtw" 0 0 50 H I C CNN "Hersteller"
+F6 "C124397" 0 0 50 H I C CNN "Herstellerbestellnummer"
+F7 "LCSC" 0 0 50 H I C CNN "Distributor"
+F8 "C124397" 0 0 50 H I C CNN "Bestellnummer"
+DRAW
+ENDDRAW
+ENDDEF
+#
+# 1,27P_SMD_10POS_2REIH_MALE
+#
+DEF 1,27P_SMD_10POS_2REIH_MALE J 0 40 Y Y 1 F N
+F0 "J" 0 0 50 H V C CNN
+F1 "1,27P_SMD_10POS_2REIH_MALE" 0 0 50 H V C CNN
+F2 "Stecker:1,27P_SMD_10POS_2REIH" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "?NB?" 0 0 50 H V C CNN "NB"
+F5 "Ckmtw" 0 0 50 H I C CNN "Hersteller"
+F6 "C135211" 0 0 50 H I C CNN "Herstellerbestellnummer"
+F7 "LCSC" 0 0 50 H I C CNN "Distributor"
+F8 "C135211" 0 0 50 H I C CNN "Bestellnummer"
+DRAW
+ENDDRAW
+ENDDEF
+#
 # 2x3_254
 #
 DEF 2x3_254 J 0 40 Y Y 1 F N
