@@ -4,6 +4,10 @@ $CMP 1,27P_SMD_10POS_2REIH_Female
 F https://datasheet.lcsc.com/szlcsc/1810221911_Ckmtw-Shenzhen-Cankemeng-C124397_C124397.pdf
 $ENDCMP
 #
+$CMP 1,27P_SMD_10POS_2REIH_MALE
+F https://datasheet.lcsc.com/szlcsc/1810221937_Ckmtw-Shenzhen-Cankemeng-C135211_C135211.pdf
+$ENDCMP
+#
 $CMP 2x3_254
 F https://cdn-reichelt.de/documents/datenblatt/C140/RND_205-00634_DB_EN.pdf
 $ENDCMP

@@ -10,6 +10,11 @@ D 1uF 0603 X7R 25V
 F https://api.kemet.com/component-edge/download/specsheet/C0603C105K3RACTU.pdf
 $ENDCMP
 #
+$CMP 22n_0603
+D 22nF 0603 X7R 25V
+F https://api.kemet.com/component-edge/download/specsheet/C0603C104K3RACTU.pdf
+$ENDCMP
+#
 $CMP 22p_0603
 D 22pF 0603 X7R 50V
 F https://api.kemet.com/component-edge/download/specsheet/C0603C220K5RACTU.pdf
